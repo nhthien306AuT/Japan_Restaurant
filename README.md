@@ -1,4 +1,4 @@
-#📊 Japan Restaurant Project — Data Analysis
+# Japan Restaurant Project — Data Analysis
 1. Project Overview
   - This project analyzes restaurant operational data to identify key patterns in customer behavior, peak hours, order trends, and business performance.
   -  The goal is to provide actionable insights for optimizing staffing, menu design, and overall operations.
