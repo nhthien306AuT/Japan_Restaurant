@@ -6,7 +6,8 @@
 2. Project Structure
   - Folders:
     + dataset: Raw datasets 
-    + result: + Dataset cleaned
+    + result:
+              + Dataset cleaned
               + Report
               + Final dashboard(pdf)
 3. Tech stack
