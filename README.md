@@ -6,7 +6,7 @@
 2. Project Structure
   - Folders:
     + dataset: Raw datasets 
-    + result:
+    + result:  
               + Dataset cleaned
               + Report
               + Final dashboard(pdf)
