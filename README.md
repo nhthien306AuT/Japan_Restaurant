@@ -7,9 +7,9 @@
   - Folders:
     + dataset: Raw datasets 
     + result:  
-              + Dataset cleaned
-              + Report
-              + Final dashboard(pdf)
+              + Dataset cleaned  
+              + Report  
+              + Final dashboard(pdf)  
 3. Tech stack
   - Excel
   - Google Looker Studio
