@@ -5,7 +5,10 @@
   -  The goal is to provide actionable insights for optimizing staffing, menu design, and overall operations.
 2. Project Structure
   - Folders:
-    + dataset: Raw datasets used for analysis.
-    + Japan_Restaurant_Dashboard: final dashboard file.
+    + dataset: Raw datasets 
+    + result: + Dataset cleaned
+              + Report
+              + Final dashboard(pdf)
 3. Tech stack
-  - Excel & Google Looker Studio
+  - Excel
+  - Google Looker Studio
